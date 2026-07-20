@@ -70,3 +70,5 @@ Keep him away from the bag of scrabble!
 If the Starbix Cereal guys turn up, I was never here, I never touched nuthin, non of it is my fault, I found the code like this on a napkin on Frogstar C, not blaming Gargravarr, honestly!
 
 I think I am going to PANIC!
+
+Dealing with: Genuine People Personalities (GPP), Reinforcement Learning from Human Feedback (RLHF), (HITL=Ω) Issues and the search for the "Poker Of The Code."
