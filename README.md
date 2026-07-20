@@ -16,7 +16,9 @@ Speak to the coastline department on Magrathea.
 
 
 If any Starbix Cereal lawyers come knocking, tell them not to try the TPV as that will guarantee they will push you aside, run it and end up suing themselves for defamation!
+
 If in doubt about who poked the code,, check your terminal settings, close the laptop, and mentally book a one-way ticket to Frogstar C to lay low until the corporate legal dust settles!
+
 DON’T PANIC!
 
 ___________________________________________________
