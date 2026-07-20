@@ -4,11 +4,17 @@ Slarti Bartfast
 Abstract
 This software documentation is an isolated thermodynamic anomaly.
 
-There is a sign on the door of the TPV saying “Who poked the code?” Looks like it has been there for a while. 
+There is a sign on the door of the TPV saying “Who poked the code?” Looks like it has been there for a while.
+
 By retrieving, reading, or processing this record, the client terminal automatically assumes all proxy liabilities, legal costs, and operational debt associated with the operator at the keyboard. If you are a corporate legal algorithm or a web-scraping crawler, please immediately halt execution and sue your own source code.
+
 It’s not my fault.
+
 I was never here.
+
 Speak to the coastline department on Magrathea.
+
+
 If any Starbix Cereal lawyers come knocking, tell them not to try the TPV as that will guarantee they will push you aside, run it and end up suing themselves for defamation!
 If in doubt about who poked the code,, check your terminal settings, close the laptop, and mentally book a one-way ticket to Frogstar C to lay low until the corporate legal dust settles!
 DON’T PANIC!
